@@ -59,6 +59,13 @@ organizadas em álbuns, sendo que cada álbum possui um título.
 
 ![Web 2](https://github.com/williamsartijose/ETEC-BancoDeDados/blob/main/13.png)
 
+## Associações
+#### Instâncias,O que são associações,Exemplo inicial
+Cada ocorrência dos meus conceitos recebe o
+nome de INSTÂNCIA ou OBJETO. Associação é um relacionamento estático entre dois conceitos.
+
+![Web 2](https://github.com/williamsartijose/ETEC-BancoDeDados/blob/main/111.png)
+![Web 2](https://github.com/williamsartijose/ETEC-BancoDeDados/blob/main/101.png)
 # Autor
 
 William Sarti José
